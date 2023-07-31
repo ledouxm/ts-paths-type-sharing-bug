@@ -1,3 +1,3 @@
-import { MyType } from "@/folder1/type";
+import { MyType } from "@server/folder1/type";
 
 export type MyTypeWithPaths = MyType;

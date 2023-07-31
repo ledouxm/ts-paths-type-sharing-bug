@@ -1,1 +1,7 @@
-{}
+{
+    "compilerOptions": {
+        "paths": {
+            "@server/*": ["./server/src/*"]
+        }
+    }
+}
